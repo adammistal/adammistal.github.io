@@ -1,0 +1,4 @@
+
+function  closeApp(){
+    mobileApp.close()
+}
